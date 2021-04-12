@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tingchel/igor_modern_cpp/homework2/igg_image/src/igg_image/image.h
+vector
+-
+io_tools.h
+/Users/tingchel/igor_modern_cpp/homework2/igg_image/src/igg_image/io_tools.h
+
+/Users/tingchel/igor_modern_cpp/homework2/igg_image/src/igg_image/io_tools.h
+fstream
+-
+string
+-
+vector
+-
+
+/Users/tingchel/igor_modern_cpp/homework2/igg_image/src/main.cpp
+iostream
+-
+igg_image/image.h
+/Users/tingchel/igor_modern_cpp/homework2/igg_image/src/igg_image/image.h
+

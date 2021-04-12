@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -Wall -Wextra -fPIC -O3 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/run.dir/main.cpp.o -o ../../bin/run  -Wl,-rpath,/Users/tingchel/igor_modern_cpp/homework2/igg_image/lib ../../lib/libimage.a ../../lib/libio_tools.dylib 
